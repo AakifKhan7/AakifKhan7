@@ -49,7 +49,7 @@ Welcome to my GitHub! I'm a passionate developer specializing in  **Python, Flas
 
 ## 📫 Contact Me
 
-* **GitHub:** github.com/AakifKhan7/AakifKhan7
+* **GitHub:** https://github.com/AakifKhan7
 * **LinkedIn:** https://www.linkedin.com/in/aakifahmedkhanbalooch/
 * **Email:** baloochaakifkhan@gmail.com
 
