@@ -42,10 +42,10 @@ Welcome to my GitHub! I'm a passionate developer specializing in  **Python, Flas
 
 ## 🛠️ Technologies & Skills
 
-* **Languages:** Python, Java, JavaScript, HTML, CSS
-* **Frameworks & Libraries:** Flask, SQLAlchemy, Bootstrap, Pygame
-* **Tools & Platforms:** Raspberry Pi, Stripe API, Stockfish, Web Scraping
-* **Databases:** SQLite, PostgreSQL
+* **Languages:** Python, Java, JavaScript, HTML, CSS, React, Node
+* **Frameworks & Libraries:** Spring boot, Flask, SQLAlchemy, Bootstrap, Pygame
+* **Tools & Platforms:** Raspberry Pi, Stripe API, Stockfish, Web Scraping, razorpay, firebase
+* **Databases:** SQLite, PostgreSQL, MongoDB, MySQL
 
 ## 📫 Contact Me
 
