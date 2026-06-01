@@ -1,6 +1,6 @@
 <!-- HERO -->
 <a href="https://github.com/AakifKhan7">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:8a2be2&height=200&section=header&text=Aakif%20Khan&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20dev%20%C2%B7%20AI%20%26%20automation%20tinkerer&descSize=18&descAlignY=62&descAlign=50" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/AakifKhan7/AakifKhan7/main/banner.svg" alt="Aakif Khan - Full-stack dev, AI & automation tinkerer" width="100%"/>
 </a>
 
 <!-- TYPING -->
@@ -166,4 +166,3 @@ Google-Sheets-driven Google Maps scraper running as a systemd service. Fans out 
   <i>If you're building something interesting — let's talk.</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:1f6feb&height=120&section=footer" alt="footer"/>
