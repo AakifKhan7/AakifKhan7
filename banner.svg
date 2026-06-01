@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Aakif Khan - Full-stack dev, AI and automation tinkerer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f6feb"/>
+      <stop offset="55%" stop-color="#5b3df2"/>
+      <stop offset="100%" stop-color="#8a2be2"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur stdDeviation="0.6"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <rect width="1200" height="240" fill="url(#glow)"/>
+
+  <g opacity="0.18" fill="none" stroke="#ffffff" stroke-width="1">
+    <circle cx="120" cy="60" r="2.5"/>
+    <circle cx="220" cy="180" r="1.8"/>
+    <circle cx="380" cy="40" r="2"/>
+    <circle cx="980" cy="60" r="2.5"/>
+    <circle cx="1100" cy="180" r="1.8"/>
+    <circle cx="860" cy="200" r="2"/>
+    <circle cx="60" cy="200" r="1.6"/>
+    <circle cx="1140" cy="40" r="1.6"/>
+  </g>
+
+  <path d="M0,200 C200,160 400,240 600,200 C800,160 1000,240 1200,200 L1200,240 L0,240 Z" fill="url(#wave)"/>
+  <path d="M0,215 C220,185 420,245 620,215 C820,185 1020,245 1200,215 L1200,240 L0,240 Z" fill="#ffffff" fill-opacity="0.06"/>
+
+  <text x="600" y="118" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="74" font-weight="800" fill="#ffffff" letter-spacing="1">Aakif Khan</text>
+  <text x="600" y="160" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="500" fill="#e6edf3" opacity="0.92">Full-stack dev  ·  AI &amp; automation tinkerer  ·  hardware tinkerer</text>
+</svg>
