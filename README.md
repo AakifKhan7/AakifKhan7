@@ -28,11 +28,78 @@
 
 ## 🧭 About
 
-I build **full-stack web apps**, **AI-driven tools**, and the occasional **hardware project**. Most of my recent work lives in private repos — the pinned tiles below show range across stacks. If a card is locked, it's a real project I'm happy to walk you through on request.
+I build **full-stack web apps**, **AI-driven tools**, and the occasional **hardware project**. Most of my recent work lives in private repos — the section below highlights what's shipping. Live demo available on request for any of them.
 
 - 💼 **Open to:** freelance, internships, and full-time roles
 - 🌐 **Website:** [nodnest.com](https://nodnest.com/)
 - 📫 **Reach me:** [baloochaakifkhan@gmail.com](mailto:baloochaakifkhan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aakifahmedkhanbalooch/)
+
+<br/>
+
+## 💼 Featured work
+
+> Six recent projects I've shipped (or am shipping). The 🔒 ones live in private repos — I'll walk you through a live demo on request.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔒 Exertia — Workforce OS
+A unified employee management platform: project tracking, HR (attendance / leave), and productivity intelligence in one product — paired with a desktop tracking agent.
+
+`React`  `Node.js`  `Electron`  `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 BazarBook — POS / Khata SaaS
+Multi-tenant point-of-sale + digital ledger for Indian small businesses. Inventory, GST invoices, customer credit, multi-branch orgs, WhatsApp alerts, Razorpay billing.
+
+`React`  `Node.js`  `AWS`  `Terraform`  `Razorpay`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔒 Helpinix — P2P Task Marketplace
+Peer-to-peer marketplace with a coin-based escrow economy (1 coin = ₹1). Work-completion escrow, instant settlement, dual-sided trust system.
+
+`React`  `Node.js`  `MongoDB`  `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 IAF Crisis Response System
+Full-stack crisis response platform with **5 ML models** for personnel analytics, mission assignment, and real-time crisis management. Role-based JWT auth.
+
+`Spring Boot`  `React`  `Python ML`  `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔒 PaperRead — Newspaper OCR
+Three-stage OCR pipeline: article detection (Detectron2 / PubLayNet) → text-line detection (CRAFT) → recognition (TrOCR). Dockerised.
+
+`Python`  `Detectron2`  `CRAFT`  `TrOCR`  `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 Map Scraper
+Google-Sheets-driven Google Maps scraper running as a systemd service. Fans out by query, writes structured leads back to Sheets.
+
+`Python`  `Selenium`  `Google API`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="mailto:baloochaakifkhan@gmail.com"><img src="https://img.shields.io/badge/Want%20a%20live%20demo%3F-Reach%20out-22c55e?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 <br/>
 
@@ -67,14 +134,14 @@ I build **full-stack web apps**, **AI-driven tools**, and the occasional **hardw
 </td>
 <td valign="top" width="34%">
 
-**Data, tools, hardware**
+**Data, infra, hardware**
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 </td>
@@ -83,31 +150,14 @@ I build **full-stack web apps**, **AI-driven tools**, and the occasional **hardw
 
 <br/>
 
-## 📊 GitHub stats
+## 🔥 Activity & streak
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AakifKhan7&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&rank_icon=github&card_width=450"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakifKhan7&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=AakifKhan7&hide_border=true&theme=tokyonight&background=0d1117&ring=58a6ff&fire=8a2be2&currStreakLabel=58a6ff" alt="streak"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=AakifKhan7&hide_border=true&theme=tokyonight"/>
-</p>
-
-<br/>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AakifKhan7&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
-</p>
-
-<br/>
-
-## 📈 Contribution graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AakifKhan7&bg_color=0d1117&color=58a6ff&line=8a2be2&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AakifKhan7&bg_color=0d1117&color=58a6ff&line=8a2be2&point=ffffff&area=true&hide_border=true&custom_title=Contribution+graph" alt="activity"/>
 </p>
 
 <br/>
